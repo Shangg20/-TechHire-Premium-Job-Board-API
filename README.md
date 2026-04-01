@@ -12,5 +12,4 @@ Includes:
 - Premium (unlocked) job list
 - Job detail view
 
-SUBMITTED BY: 
-BALENDO, ANN TRECIA C. BSIT-3A
+## SUBMITTED BY: BALENDO, ANN TRECIA C. BSIT-3A
