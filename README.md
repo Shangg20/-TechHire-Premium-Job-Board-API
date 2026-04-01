@@ -11,3 +11,6 @@ Includes:
 - Public (masked) job list
 - Premium (unlocked) job list
 - Job detail view
+
+SUBMITTED BY: 
+BALENDO, ANN TRECIA C. BSIT-3A
